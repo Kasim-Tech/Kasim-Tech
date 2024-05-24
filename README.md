@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Admin Dashbord (FullStack pro)](https://brilliant-lolly-ea97a3.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [kasimsportfolio.netlify.app](kasimsportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Open Portfolio](https://kasimsportfolio.netlify.app)
 
 - 💬 Ask me about **Reactjs, HTML, CSS**
 

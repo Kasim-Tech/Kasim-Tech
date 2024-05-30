@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [Open Portfolio](https://kasimsportfolio.netlify.app)
 
 - 💬 Ask me about **Reactjs, HTML, CSS**
-
+ 
 - 📫 How to reach me **abukasimidrishi@gmail.com**
 
 - 📄 Know about my experiences [Get Resume](https://drive.google.com/file/d/1HtEZ_RwjR4cko5gezHYFt6wuH_ko1tfR/view?usp=drive_link)

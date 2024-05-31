@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasim-tech&label=Profile%20views&color=0e75b6&style=flat" alt="kasim-tech" /> </p>
 
-- 🔭 I’m currently working on [Admin Dashbord (FullStack pro)](https://brilliant-lolly-ea97a3.netlify.app/) 
+- 🔭 I’m currently working on [Admin Dashbord (FullStack pro)](https://brilliant-lolly-ea97a3.netlify.app/)  
 
 - 👨‍💻 All of my projects are available at [Open Portfolio](https://kasimsportfolio.netlify.app)
 
